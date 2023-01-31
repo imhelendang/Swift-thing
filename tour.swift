@@ -1,3 +1,5 @@
+// Most documentation comes from https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html
+
 // combine string and use conversion method using String(var)
 let label = "The width is "
 let width = 94
