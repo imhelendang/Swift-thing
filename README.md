@@ -1,2 +1,3 @@
 # Swift-thing
-This is a self-learn journey.
+This is a self-learn journey...
+And it's a pretty long one:)
